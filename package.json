@@ -1,0 +1,22 @@
+{
+  "name": "guenon",
+  "version": "0.0.1",
+  "description": "A react component of web-ide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/guenon.git"
+  },
+  "keywords": [
+    "web-ide"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/guenon/issues"
+  },
+  "homepage": "https://github.com/LiberJe/guenon#readme"
+}
